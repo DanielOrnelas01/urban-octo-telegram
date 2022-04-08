@@ -8,7 +8,7 @@
     --color1: #ffffff;
     --color2: #2a607c;
 }
-/* this changes background-color of body*/
+
 body {
     background-color: #d9dcd6;
 }
@@ -79,7 +79,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*aside*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -108,8 +108,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*end of aside*/
 
-
+/* articles in main element*/
 .article {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,7 +130,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*end of articles*/
 
 footer {
     padding: 30px;
